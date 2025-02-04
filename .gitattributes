@@ -1,4 +1,14 @@
 .html filter=lfs diff=lfs merge=lfs -text
 .wasm filter=lfs diff=lfs merge=lfs -text
-*.html filter=lfs diff=lfs merge=lfs -text
 *.wasm filter=lfs diff=lfs merge=lfs -text
+danceoffae/wasm---wasm/045c5baa.html filter=lfs diff=lfs merge=lfs -text
+wildfire/wasm---wasm/09546de6.html filter=lfs diff=lfs merge=lfs -text
+vertiga/wasm---wasm/00046f52.html filter=lfs diff=lfs merge=lfs -text
+vaportrails/wasm---wasm/06a8dcae.html filter=lfs diff=lfs merge=lfs -text
+silhouetteshowdown/wasm---wasm/04421b1e.html filter=lfs diff=lfs merge=lfs -text
+redhanded/wasm---wasm/03ad1f22.html filter=lfs diff=lfs merge=lfs -text
+monsterbattlegrounds/wasm---wasm/04421b1e.html filter=lfs diff=lfs merge=lfs -text
+mobsinc/wasm---wasm/000f11ea.html filter=lfs diff=lfs merge=lfs -text
+irori/wasm---wasm/05e6753a.html filter=lfs diff=lfs merge=lfs -text
+gourdlets/wasm---wasm/0349a45e.html filter=lfs diff=lfs merge=lfs -text
+escapefromcastleclaymount/wasm---wasm/04a004a6.html filter=lfs diff=lfs merge=lfs -text
