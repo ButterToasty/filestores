@@ -1,0 +1,98 @@
+{
+    "c2array": true,
+    "size": [
+        4,
+        5,
+        2
+    ],
+    "data": [
+        [
+            [
+                "PLAYER_1",
+                "PLAYER_2"
+            ],
+            [
+                "Block",
+                "Block"
+            ],
+            [
+                "Duck",
+                "Duck"
+            ],
+            [
+                "Jab",
+                "Jab"
+            ],
+            [
+                "Hook",
+                "Hook"
+            ]
+        ],
+        [
+            [
+                "Keyboard",
+                "Keyboard"
+            ],
+            [
+                "Q",
+                "O"
+            ],
+            [
+                "A",
+                "L"
+            ],
+            [
+                "W",
+                "I"
+            ],
+            [
+                "S",
+                "K"
+            ]
+        ],
+        [
+            [
+                "Screen",
+                "Screen"
+            ],
+            [
+                "UPPER LEFT",
+                "UPPER RIGHT"
+            ],
+            [
+                "LOWER LEFT",
+                "LOWER RIGHT"
+            ],
+            [
+                "UPPER RIGHT",
+                "UPPER LEFT"
+            ],
+            [
+                "LOWER RIGHT",
+                "LOWER LEFT"
+            ]
+        ],
+        [
+            [
+                "Gamepad",
+                "Gamepad"
+            ],
+            [
+                "0_2",
+                "1_3"
+            ],
+            [
+                "0_0",
+                "1_1"
+            ],
+            [
+                "0_3",
+                "1_2"
+            ],
+            [
+                "0_1",
+                "1_0"
+            ]
+        ]
+    ]
+}
