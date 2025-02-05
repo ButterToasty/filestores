@@ -312,7 +312,7 @@ const InternalConfig = function (initConfig) { // eslint-disable-line no-unused-
 		 * @default
 		 * @type {?string}
 		 */
-		mainPack: 'https://raw.githubusercontent.com/ButterToasty/filestores/refs/heads/main/slotornot/html-classic.itch.zone/html/12689423/index.pck',
+		mainPack: 'index.pck',
 		/**
 		 * Specify a language code to select the proper localization for the game.
 		 *
